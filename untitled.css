@@ -1,0 +1,9 @@
+p {
+  border:2px dotted black;
+  border-top:5px solid red;
+  border-right:5px dotted blue;
+  padding:0px;
+  margin-top:5px;
+  margin-left:10px;
+  margin:0px;
+}
